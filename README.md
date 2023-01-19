@@ -8,3 +8,8 @@ Intro Git Demo
   - `git commit -m "MESSAGE"`: create the git message directly in the command line
 - `git push origin main`: sends code from branch `origin` local computer to remote `main`.
 - `git pull origin main`: fetches code from branch `origin` local computer to remote `main`.
+
+## branches
+
+- `git branch <NAME>`: create a branch named <NAME> where ever you are (`HEAD`)
+- `git switch <NAME> / git checkout <NAME>`: switch to branch <NAME>
