@@ -13,3 +13,4 @@ Intro Git Demo
 
 - `git branch <NAME>`: create a branch named <NAME> where ever you are (`HEAD`)
 - `git switch <NAME> / git checkout <NAME>`: switch to branch <NAME>
+- `git switch -c <NAME/ git checkout -b <NAME>`: create a branch and move to it in 1 command
